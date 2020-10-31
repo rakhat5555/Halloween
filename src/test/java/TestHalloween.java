@@ -4,4 +4,8 @@ public class TestHalloween {
     // practice second time
     
     // changed from the github
+    // line 1
+    // line 2
+    // line 3
+
 }
